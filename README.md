@@ -26,3 +26,7 @@ A Python implementation of a state machine that organizes the runtime behavior o
 
 <h3>README.md</h3>
 Documentation describing the purpose, structure, and workflow of the project.
+
+
+<h3>Demonstration</h3>
+A video of the robot in action. 
