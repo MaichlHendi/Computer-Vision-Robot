@@ -1,9 +1,4 @@
 # Computer-Vision-Robot
-An XRP Robot integrated with Google Coral Dev Board for maze exploration and Computre vision/Object Detection.
+Project Overview
 
-This project consists of:
-
-  1. Model training for object detection.
-  2. Senseor integration
-  3. Maze exploration
-  4. Emdedded integration of 2 microcontrollers. (Raspberry Pi and Coral Dev Board) 
+This repository contains the complete workflow for developing, training, and deploying an object detection model using MediaPipe and TensorFlow Lite, optimized for execution on the Coral EdgeTPU. The project demonstrates the full pipeline from model training to exporting a quantized TFLite model, generating metadata for embedded applications, and integrating the model into a Python-based state machine system.
