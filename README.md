@@ -28,5 +28,5 @@ A Python implementation of a state machine that organizes the runtime behavior o
 Documentation describing the purpose, structure, and workflow of the project.
 
 
-<h3>Demonstration</h3>
+<h3>Demo_1/2</h3>
 A video of the robot in action. 
